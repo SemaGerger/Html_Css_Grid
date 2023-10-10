@@ -9,7 +9,7 @@ body{
 }
 .header{display: grid; grid: "headerA";  justify-content: center;  }
 .main{display: grid; grid: "mainA"; gap: 10px;}
-.footer{display: flex; grid: "footerA";}
+.footer{ grid: "footerA";}
 /*! header*/
 
 .writing1{
